@@ -12,11 +12,11 @@ As of 1/28/2024 Zau is `semi-functional`
 ## Zau Library
 
 ### Methods
->`getPopoutWindowByKey(key: string) -> BrowserWindow | undefined`
->`getAllPopoutWindows() -> BrowserWindow[]`
->`execInContext(code: string) -> void (UNSAFE)`
->`notify(title: string, content: string) -> void`
+>`getPopoutWindowByKey(key: string) -> BrowserWindow | undefined`<br>
+>`getAllPopoutWindows() -> BrowserWindow[]`<br>
+>`execInContext(code: string) -> void (UNSAFE)`<br>
+>`notify(title: string, content: string) -> void`<br>
 
 ### Objects
->`electron -> The electron package, also accessible with require("electron")`
->`mainScreen -> Discords intenal mainScreen.js file, see core.asar for more`
+>`electron -> The electron package, also accessible with require("electron")`<br>
+>`mainScreen -> Discords intenal mainScreen.js file, see core.asar for more`<br>
