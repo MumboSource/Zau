@@ -6,7 +6,7 @@ Zau is a simple dev friendly discord (canary) plugin manager / modder. Zau provi
 
 Zau has no built-in blacklisting mechanism for functions or unsafe procedures, leaving all safety up to the user, Zau is intended to be a "playground" for **you** to modify **your discord** in the way that **you** want. Installing other peoples scripts in **not recommended**.
 
-Plugins can be found @ `%LOCALAPPDATA%/DiscordCanary/plugins`
+Plugins can be found @ `%LOCALAPPDATA%/DiscordCanary/plugins`<br>
 As of 1/28/2024 Zau is `semi-functional`
 
 ## Zau Library
