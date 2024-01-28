@@ -1,0 +1,19 @@
+{
+  "name": "Zau",
+  "version": "1.0.0",
+  "description": "A stealthy, low profile, blazingly fast discord plugin manager going to the moon!",
+  "main": "build/index.js",
+  "repository": "https://github.com/MumboSource/Zau",
+  "author": "MumboSourceTeam",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": "tsc",
+    "start": "node build/index.js",
+    "dev": "tsc && node build/index.js"
+  },
+  "dependencies": {
+    "@electron/asar": "^3.2.8",
+    "@types/node": "^20.11.8"
+  }
+}
